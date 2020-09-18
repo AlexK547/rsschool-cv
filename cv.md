@@ -8,5 +8,20 @@ Hello, I’m a Aleksandr. I live in the city of Tolyatti. Currently I am studyin
 
 # Skills
 
-* •	Languages: HTML, CSS, Javascript (basics), Java (basics);
-* •	VCS: Git basics;
+* Languages: HTML, CSS, Javascript (basics), Java (basics);
+* VCS: Git basics;
+
+# Code Example
+```
+function isPrime(num) {
+  if (num <= 1) return false;
+  if (num < 2 || num % 2 === 0 && num != 2) {
+    return false;
+  }
+  let max = Math.sqrt(num);
+  for (let i = 3; I <= max; i++) {
+    if (num % i === 0) return false;
+  }
+  return true;
+}
+```
