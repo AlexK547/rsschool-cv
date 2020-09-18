@@ -1,6 +1,8 @@
 # Aleksandr Kozhenov
 
-+7 939 704 11 45 • Viber • WhatsApp • Tolyatti, Russian Federation • kozhenov1984@mail.ru 
+* phone: +7 939 704 11 45 • Viber • WhatsApp 
+* location: Tolyatti, Russian Federation 
+* e-mail: kozhenov1984@mail.ru 
 
 # Summary
 
@@ -25,3 +27,12 @@ function isPrime(num) {
   return true;
 }
 ```
+
+# Education
+
+Faculty of automation of technological processes and production - Tolyatti state University, Russian Federation
+	
+September 2000 - July 2006
+
+# English Skills
+*	English: elementary (A2)
