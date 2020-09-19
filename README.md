@@ -1,1 +1,1 @@
-CV https://AlexK547.github.io/rsschool-cv/
+HTML https://AlexK547.github.io/rsschool-cv/
