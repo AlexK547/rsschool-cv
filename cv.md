@@ -1,6 +1,5 @@
 # Aleksandr Kozhenov
 
-* phone: +7 939 704 11 45 • Viber • WhatsApp 
 * location: Tolyatti, Russian Federation 
 * e-mail: kozhenov1984@mail.ru 
 
