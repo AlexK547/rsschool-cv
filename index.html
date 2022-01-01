@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>CV task rsschool</title>
+</head>
+<body>
+  <h2>Alexandr Kozhenov</h2>
+  <ul>
+    <li>location: Tolyatti, Russian Federation</li>
+    <li>e-mail: kozhenov1984@mail.ru</li>
+  </ul>  
+  <h2>Summary</h2>
+  <p>Hello, I’m a Alexandr. I live in the city of Tolyatti. 
+    Currently I am studying the course «JS/FE Pre-School 2022» at RS School. 
+    I want to become an IT specialist.</p>
+  <h2>Skills</h2>
+  <ul>
+    <li>Languages: HTML, CSS, Javascript (basics), Java;</li>
+    <li>VCS: Git basics;</li>
+  </ul>
+  <h2>Code Example</h2>
+  <pre>
+    function isPrime(num) {
+      if (num <= 1) return false;
+      if (num < 2 || num % 2 === 0 && num != 2) {
+        return false;
+      }
+      let max = Math.sqrt(num);
+      for (let i = 3; i <= max; i++) {
+        if (num % i === 0) return false;
+      }
+      return true;
+    }    
+  </pre>
+  <h2>Education</h2>
+  <p>Faculty of automation of technological processes and production - Tolyatti state University, Russian Federation</p>
+  <p>September 2000 - July 2006</p>
+  <h2>English Skills</h2>
+  <ul>
+    <li>English: elementary (A2)</li>
+  </ul> 
+</body>
+</html>
