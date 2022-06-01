@@ -1,11 +1,11 @@
 # Alexandr Kozhenov
 
-* location: Tolyatti, Russian Federation 
+* location: Togliatti, Russian Federation 
 * e-mail: kozhenov1984@mail.ru 
 
 # Summary
 
-Hello, I’m a Alexandr. I live in the city of Tolyatti. Currently I am studying the course «JS/FE Pre-School 2022» at RS School. I want to become an IT specialist.
+Hello, I’m a Alexandr. I live in the city of Togliatti. Currently I am studying the course «JS/FE Pre-School 2022» at RS School. I want to become an IT specialist.
 
 # Skills
 
@@ -14,16 +14,8 @@ Hello, I’m a Alexandr. I live in the city of Tolyatti. Currently I am studying
 
 # Code Example
 ```
-function isPrime(num) {
-  if (num <= 1) return false;
-  if (num < 2 || num % 2 === 0 && num != 2) {
-    return false;
-  }
-  let max = Math.sqrt(num);
-  for (let i = 3; i <= max; i++) {
-    if (num % i === 0) return false;
-  }
-  return true;
+function greet() {
+  return 'Hello world!';
 }
 ```
 
@@ -34,4 +26,4 @@ Faculty of automation of technological processes and production - Tolyatti state
 September 2000 - July 2006
 
 # English Skills
-*	English: elementary (A2)
+*	English: pre-intermediate (A2+)
