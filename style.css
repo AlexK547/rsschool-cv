@@ -202,3 +202,7 @@ h1 {
   list-style-type: none;
   font-size: 20px;
 }
+
+.footer-img {
+  height: 50px;
+}
