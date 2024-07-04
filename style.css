@@ -129,6 +129,67 @@ h3 {
   line-height: 150%;
 }
 
+/* Code example */
+
+.code-example {
+  padding: 0 100px 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(225, 227, 219);
+  font-size: 20px;
+  line-height: 150%;
+}
+
+.some-code {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.js-code > span {
+  font-weight: 700;
+}
+
+/* My projects */
+
+.projects {
+  padding: 0 100px 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: floralwhite;
+  font-size: 20px;
+  line-height: 150%;
+}
+.project {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.project__link {
+  font-size: 24px;
+  color: black;
+  font-weight: bold;
+}
+.project__title {
+  padding-bottom: 30px;
+}
+
+/* Contacts */
+
+.contacts {
+  padding: 0 100px 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(225, 227, 219);
+  font-size: 20px;
+  line-height: 150%;
+}
 
 /* Footer */
 
